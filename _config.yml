@@ -35,7 +35,7 @@ facebook_username: byronpoyen
 
 # Build settings
 #theme: minima
-port: 4001
+
 plugins:
   - jekyll-feed
 
